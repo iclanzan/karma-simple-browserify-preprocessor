@@ -1,0 +1,20 @@
+{
+  "name": "karma-simple-browserify-preprocessor",
+  "description": "A simple Browserify preprocessor for Karma.",
+  "version": "0.0.1",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mprencipe/karma-simple-browserify-preprocessor.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "browserify"
+  ],
+  "author": "Massimo Prencipe <mprencipe@gmail.com>",
+  "main": "lib/index.js",
+  "dependencies": {
+    "browserify": ">=5.9.1"
+  }
+}
